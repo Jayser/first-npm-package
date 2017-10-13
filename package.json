@@ -1,0 +1,19 @@
+{
+  "name": "first-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayser/first-npm-package.git"
+  },
+  "author": "Sarhan Azizov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayser/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/Jayser/first-npm-package#readme"
+}
